@@ -43,16 +43,30 @@
 - [x] Tipos em JavaScript: Array
 - [x] Tipos em JavaScript: Object
 - [x] Entendendo o Null & Undefined
-- [ ] Quase tudo é função!
-- [ ] Exemplos Básicos de Funções #01
-- [ ] Exemplos Básicos de Funções #02
-- [ ] Declaração de Variáveis Com Var #01
-- [ ] Declaração de Variáveis Com Var #02
-- [ ] Declaração de Variáveis Com Let
-- [ ] Usando Var em Loop #01
-- [ ] Usando Let em Loop #01
-- [ ] Usando Var em Loop #02
-- [ ] Usando Let em Loop #02
+- [x] Quase tudo é função!
+- [x] Exemplos Básicos de Funções #01
+- [x] Exemplos Básicos de Funções #02
+- [x] Declaração de Variáveis Com Var #01
+- [x] Declaração de Variáveis Com Var #02
+- [x] Declaração de Variáveis Com Let
+- [x] Usando Var em Loop #01
+- [x] Usando Let em Loop #01
+- [x] Usando Var em Loop #02
+- [x] Usando Let em Loop #02
+- [x] Entendendo o Hoisting
+- [x] Função Vs Objeto
+- [x] Par Nome/Valor
+- [x] Notação Ponto
+- [x] Operadores: Atribuição
+- [x] Operadores: Destructuring #01
+- [x] Operadores: Destructuring #02
+- [x] Operadores: Destructuring #03
+- [x] Operadores: Destructuring #04
+- [x] Operadores: Aritméticos
+- [x] Operadores: Relacionais
+- [ ] Operadores: Lógicos
+- [ ] Operadores: Unários
+- [ ] Operadores: Ternário
 
 
 #### Seção 4:Javascript: Estruturas de Controle
