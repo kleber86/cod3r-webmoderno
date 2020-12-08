@@ -26,15 +26,22 @@
  - [x] Instalação do VSCode (Windows)
 
 #### Seção 3:Javascript: Fundamentos
-- [ ] Visão Geral de Algoritmo
-- [ ] Visão Geral de Estruturas de Dados
-- [ ] Configuração do Projeto
-- [ ] Organização Básica de um Código JS
-- [ ] Executando JavaScript
-- [ ] Comentários de Código
-- [ ] O Básico de Var, Let e Const
-- [ ] Tipagem Fraca
-- [ ] Tipos em JavaScript: Number
+- [x] Visão Geral de Algoritmo
+- [x] Visão Geral de Estruturas de Dados
+- [x] Configuração do Projeto
+- [x] Organização Básica de um Código JS
+- [x] Executando JavaScript
+- [x] Comentários de Código
+- [x] O Básico de Var, Let e Const
+- [x] Tipagem Fraca
+- [x] Tipos em JavaScript: Number
+- [x] Number: Alguns Cuidados
+- [x] Usando Math
+- [x] Tipos em JavaScript: String
+- [x] Usando Template Strings
+- [ ] Tipos em JavaScript: Boolean
+- [ ] Tipos em JavaScript: Array
+- [ ] Tipos em JavaScript: Object
 
 #### Seção 4:Javascript: Estruturas de Controle
 #### Seção 5:Javascript: Função
