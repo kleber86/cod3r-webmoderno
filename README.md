@@ -42,6 +42,18 @@
 - [x] Tipos em JavaScript: Boolean
 - [x] Tipos em JavaScript: Array
 - [x] Tipos em JavaScript: Object
+- [x] Entendendo o Null & Undefined
+- [ ] Quase tudo é função!
+- [ ] Exemplos Básicos de Funções #01
+- [ ] Exemplos Básicos de Funções #02
+- [ ] Declaração de Variáveis Com Var #01
+- [ ] Declaração de Variáveis Com Var #02
+- [ ] Declaração de Variáveis Com Let
+- [ ] Usando Var em Loop #01
+- [ ] Usando Let em Loop #01
+- [ ] Usando Var em Loop #02
+- [ ] Usando Let em Loop #02
+
 
 #### Seção 4:Javascript: Estruturas de Controle
 #### Seção 5:Javascript: Função
