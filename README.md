@@ -39,9 +39,9 @@
 - [x] Usando Math
 - [x] Tipos em JavaScript: String
 - [x] Usando Template Strings
-- [ ] Tipos em JavaScript: Boolean
-- [ ] Tipos em JavaScript: Array
-- [ ] Tipos em JavaScript: Object
+- [x] Tipos em JavaScript: Boolean
+- [x] Tipos em JavaScript: Array
+- [x] Tipos em JavaScript: Object
 
 #### Seção 4:Javascript: Estruturas de Controle
 #### Seção 5:Javascript: Função
