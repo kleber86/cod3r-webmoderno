@@ -66,7 +66,9 @@
 - [x] Operadores: Relacionais
 - [x] Operadores: Lógicos
 - [x] Operadores: Unários
-- [ ] Operadores: Ternário
+- [x] Operadores: Ternário
+- [x] Contexto de Execução: Browser vs Node
+- [x] Tratamento de Erro (Try/Catch/Throw)
 
 
 #### Seção 4:Javascript: Estruturas de Controle
