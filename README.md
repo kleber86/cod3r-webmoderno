@@ -70,8 +70,20 @@
 - [x] Contexto de Execução: Browser vs Node
 - [x] Tratamento de Erro (Try/Catch/Throw)
 
-
 #### Seção 4:Javascript: Estruturas de Controle
+
+- [x] Visão Geral do Capítulo
+- [x] Usando a Estrutura IF #01
+- [x] Usando a Estrutura IF #02
+- [x] Usando a Estrutura IF/ELSE
+- [x] Usando a Estrutura IF/ELSE IF…
+- [x] Usando a Estrutura SWITCH
+- [x] Usando a Estrutura WHILE
+- [x] Usando a Estrutura DO/WHILE
+- [x] Usando a Estrutura FOR
+- [x] Usando a Estrutura FOR/IN
+- [x] Usando Break/Continue
+
 #### Seção 5:Javascript: Função
 #### Seção 6:Javascript: Objeto
 #### Seção 7:Javascript: Array
@@ -81,3 +93,4 @@
 #### Seção 11:Conceitos sobre Web
 
 ### :computer: Tecnologias
+
