@@ -64,8 +64,8 @@
 - [x] Operadores: Destructuring #04
 - [x] Operadores: Aritméticos
 - [x] Operadores: Relacionais
-- [ ] Operadores: Lógicos
-- [ ] Operadores: Unários
+- [x] Operadores: Lógicos
+- [x] Operadores: Unários
 - [ ] Operadores: Ternário
 
 
