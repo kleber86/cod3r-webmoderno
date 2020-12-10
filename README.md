@@ -85,6 +85,22 @@
 - [x] Usando Break/Continue
 
 #### Seção 5:Javascript: Função
+
+- [ ] Cidadão de Primeira Linha
+- [ ] Parâmetros e Retorno São Opcionais
+- [ ] Parâmetros Variáveis
+- [ ] Parâmetro Padrão
+- [ ] "this" pode Variar
+- [ ] "this" e a Função bind #01
+- [ ] "this" e a Função bind #02
+- [ ] Funções Arrow #01
+- [ ] Funções Arrow #02
+- [ ] Funções Arrow #03
+- [ ] Funções Anônimas
+- [ ] Funções Callback #01
+- [ ] Funções Callback #02
+
+
 #### Seção 6:Javascript: Objeto
 #### Seção 7:Javascript: Array
 #### Seção 8:Lista de Exercícios de JavaScript
