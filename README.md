@@ -86,10 +86,10 @@
 
 #### Seção 5:Javascript: Função
 
-- [ ] Cidadão de Primeira Linha
-- [ ] Parâmetros e Retorno São Opcionais
-- [ ] Parâmetros Variáveis
-- [ ] Parâmetro Padrão
+- [x] Cidadão de Primeira Linha
+- [x] Parâmetros e Retorno São Opcionais
+- [x] Parâmetros Variáveis
+- [x] Parâmetro Padrão
 - [ ] "this" pode Variar
 - [ ] "this" e a Função bind #01
 - [ ] "this" e a Função bind #02
