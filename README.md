@@ -90,15 +90,25 @@
 - [x] Parâmetros e Retorno São Opcionais
 - [x] Parâmetros Variáveis
 - [x] Parâmetro Padrão
-- [ ] "this" pode Variar
-- [ ] "this" e a Função bind #01
-- [ ] "this" e a Função bind #02
-- [ ] Funções Arrow #01
-- [ ] Funções Arrow #02
-- [ ] Funções Arrow #03
-- [ ] Funções Anônimas
-- [ ] Funções Callback #01
-- [ ] Funções Callback #02
+- [x] "this" pode Variar
+- [x] "this" e a Função bind #01
+- [x] "this" e a Função bind #02
+- [x] Funções Arrow #01
+- [x] Funções Arrow #02
+- [x] Funções Arrow #03
+- [x] Funções Anônimas
+- [x] Funções Callback #01
+- [x] Funções Callback #02
+- [x] Funções Construtoras
+- [x] Tipos de Declaração
+- [x] Contexto Léxico
+- [x] Closures
+- [x] Função Factory #01
+- [x] Função Factory #02
+- [x] Classe vs Função Factory
+- [x] Desafio Função Construtora
+- [x] IIFE
+- [x] Call & Apply
 
 
 #### Seção 6:Javascript: Objeto
