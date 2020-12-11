@@ -19,13 +19,13 @@
  - [x] Por que aprender Javascript?
 
  
-#### Seção 2:Configuração do Ambiente
+#### Seção 2: Configuração do Ambiente
  - [x] Instalação Node (Windows/Mac)
  - [x] Configuração do Editor (VSCode)
  - [x] Configuração do Comando 'code'
  - [x] Instalação do VSCode (Windows)
 
-#### Seção 3:Javascript: Fundamentos
+#### Seção 3: Javascript: Fundamentos
 - [x] Visão Geral de Algoritmo
 - [x] Visão Geral de Estruturas de Dados
 - [x] Configuração do Projeto
@@ -70,7 +70,7 @@
 - [x] Contexto de Execução: Browser vs Node
 - [x] Tratamento de Erro (Try/Catch/Throw)
 
-#### Seção 4:Javascript: Estruturas de Controle
+#### Seção 4: Javascript: Estruturas de Controle
 
 - [x] Visão Geral do Capítulo
 - [x] Usando a Estrutura IF #01
@@ -84,7 +84,7 @@
 - [x] Usando a Estrutura FOR/IN
 - [x] Usando Break/Continue
 
-#### Seção 5:Javascript: Função
+#### Seção 5: Javascript: Função
 
 - [x] Cidadão de Primeira Linha
 - [x] Parâmetros e Retorno São Opcionais
@@ -110,12 +110,30 @@
 - [x] IIFE
 - [x] Call & Apply
 
-#### Seção 6:Javascript: Objeto
-#### Seção 7:Javascript: Array
-#### Seção 8:Lista de Exercícios de JavaScript
-#### Seção 9:Node
-#### Seção 10:ESNext
-#### Seção 11:Conceitos sobre Web
+#### Seção 6: Javascript: Objeto
+
+- [x] Introdução à OO
+- [x] Revisão sobre Objeto
+- [x] Estratégias de Criação de Objetos
+- [x] Objetos Constantes
+- [x] Notação Literal
+- [x] Getters/Setters
+- [x] Funções Importantes de Objeto
+- [ ] Herança #01
+- [ ] Herança #02
+- [ ] Herança #03
+- [ ] Herança #04
+- [ ] Herança #05
+- [ ] Herança #06
+- [ ] Evitando Modificações
+- [ ] JSON vs Objeto
+- [ ] Classe #01
+
+#### Seção 7: Javascript: Array
+#### Seção 8: Lista de Exercícios de JavaScript
+#### Seção 9: Node
+#### Seção 10: ESNext
+#### Seção 11: Conceitos sobre Web
 
 ### :computer: Tecnologias
 
