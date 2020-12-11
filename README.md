@@ -119,15 +119,16 @@
 - [x] Notação Literal
 - [x] Getters/Setters
 - [x] Funções Importantes de Objeto
-- [ ] Herança #01
-- [ ] Herança #02
-- [ ] Herança #03
-- [ ] Herança #04
-- [ ] Herança #05
-- [ ] Herança #06
+- [x] Herança #01
+- [x] Herança #02
+- [x] Herança #03
+- [x] Herança #04
+- [x] Herança #05
+- [x] Herança #06
 - [ ] Evitando Modificações
 - [ ] JSON vs Objeto
 - [ ] Classe #01
+- [ ] Classe #02
 
 #### Seção 7: Javascript: Array
 #### Seção 8: Lista de Exercícios de JavaScript
