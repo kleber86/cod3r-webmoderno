@@ -110,7 +110,6 @@
 - [x] IIFE
 - [x] Call & Apply
 
-
 #### Seção 6:Javascript: Objeto
 #### Seção 7:Javascript: Array
 #### Seção 8:Lista de Exercícios de JavaScript
