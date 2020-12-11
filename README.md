@@ -125,8 +125,8 @@
 - [x] Herança #04
 - [x] Herança #05
 - [x] Herança #06
-- [ ] Evitando Modificações
-- [ ] JSON vs Objeto
+- [x] Evitando Modificações
+- [x] JSON vs Objeto
 - [ ] Classe #01
 - [ ] Classe #02
 
