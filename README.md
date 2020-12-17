@@ -132,25 +132,41 @@
 
 #### Seção 7: Javascript: Array
 
-- [ ] Array: Visão Geral
-- [ ] Array: Métodos Importantes
-- [ ] Simulando Array com Objeto
-- [ ] Foreach #01
-- [ ] Foreach #02
-- [ ] Map #01
-- [ ] Map #02
-- [ ] Map #03
-- [ ] Filter #01
-- [ ] Filter #02
-- [ ] Reduce #01
-- [ ] Reduce #02
-- [ ] Reduce #03
-- [ ] Imperativo Vs Declarativo
-- [ ] Concat
-- [ ] FlatMap
+- [x] Array: Visão Geral
+- [x] Array: Métodos Importantes
+- [x] Simulando Array com Objeto
+- [x] Foreach #01
+- [x] Foreach #02
+- [x] Map #01
+- [x] Map #02
+- [x] Map #03
+- [x] Filter #01
+- [x] Filter #02
+- [x] Reduce #01
+- [x] Reduce #02
+- [x] Reduce #03
+- [x] Imperativo Vs Declarativo
+- [x] Concat
+- [x] FlatMap
 
 #### Seção 8: Lista de Exercícios de JavaScript
 #### Seção 9: Node
+
+- [ ] Node: Visão Geral
+- [ ] Sistema de Módulos
+- [ ] Usando Módulos de Terceiros
+- [ ] Sistema de Módulos: Require
+- [ ] Sistema de Módulos: Exports
+- [ ] Arquivo package.json
+- [ ] Resolvendo Desafio
+- [ ] Instância Única vs Nova Instância
+- [ ] Objeto Global do Node
+- [ ] Entendendo o 'this'
+- [ ] Passando Parâmetros entre Módulos
+- [ ] Instalando Deps & Scripts
+- [ ] Lendo Arquivos
+
+
 #### Seção 10: ESNext
 #### Seção 11: Conceitos sobre Web
 
