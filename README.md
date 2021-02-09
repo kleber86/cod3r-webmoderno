@@ -152,20 +152,29 @@
 #### Seção 8: Lista de Exercícios de JavaScript
 #### Seção 9: Node
 
-- [ ] Node: Visão Geral
-- [ ] Sistema de Módulos
-- [ ] Usando Módulos de Terceiros
-- [ ] Sistema de Módulos: Require
-- [ ] Sistema de Módulos: Exports
-- [ ] Arquivo package.json
-- [ ] Resolvendo Desafio
-- [ ] Instância Única vs Nova Instância
-- [ ] Objeto Global do Node
-- [ ] Entendendo o 'this'
-- [ ] Passando Parâmetros entre Módulos
-- [ ] Instalando Deps & Scripts
-- [ ] Lendo Arquivos
-
+- [x] Node: Visão Geral
+- [x] Sistema de Módulos
+- [x] Usando Módulos de Terceiros
+- [x] Sistema de Módulos: Require
+- [x] Sistema de Módulos: Exports
+- [x] Arquivo package.json
+- [x] Resolvendo Desafio
+- [x] Instância Única vs Nova Instância
+- [x] Objeto Global do Node
+- [x] Entendendo o 'this'
+- [x] Passando Parâmetros entre Módulos
+- [x] Instalando Deps & Scripts
+- [x] Lendo Arquivos
+- [x] Escrevendo Arquivos
+- [x] Frameworks Web
+- [x] Padrão Middleware #01
+- [x] Padrão Middleware #02
+- [x] Instalando o Postman
+- [x] Projeto: API com Express #01
+- [ ] Projeto: API com Express #02
+- [ ] Projeto: API com Express #03
+- [ ] Tarefas Agendadas com Temporizador
+- [ ] Process: Entrada e Saída Padrão
 
 #### Seção 10: ESNext
 #### Seção 11: Conceitos sobre Web
