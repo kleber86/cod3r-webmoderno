@@ -171,10 +171,10 @@
 - [x] Padrão Middleware #02
 - [x] Instalando o Postman
 - [x] Projeto: API com Express #01
-- [ ] Projeto: API com Express #02
-- [ ] Projeto: API com Express #03
-- [ ] Tarefas Agendadas com Temporizador
-- [ ] Process: Entrada e Saída Padrão
+- [x] Projeto: API com Express #02
+- [x] Projeto: API com Express #03
+- [x] Tarefas Agendadas com Temporizador
+- [x] Process: Entrada e Saída Padrão
 
 #### Seção 10: ESNext
 #### Seção 11: Conceitos sobre Web
