@@ -16,7 +16,6 @@ const exec = (ctx, ...middlewares) => {
     }
     execPasso(0)
 }
-
 const ctx = {}
 exec(ctx, passo1, passo2, passo3)
 console.log(ctx) // { valor1: 'mid1', valor2: 'mid2', valor3: 'mid3' }
