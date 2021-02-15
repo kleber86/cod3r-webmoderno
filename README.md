@@ -177,7 +177,34 @@
 - [x] Process: Entrada e Saída Padrão
 
 #### Seção 10: ESNext
+- [x] Revisão #01
+- [x] Revisão #02
+- [x] Revisão #03
+- [x] Operador Rest/Spread
+- [x] Tagged Template #01
+- [x] Tagged Template #02
+- [x] Map
+- [x] Set
+- [x] For Of
+- [x] Promises
+- [x] Usando Callbacks Aninhadas
+- [x] Refatorando Callbacks p/ Promises
+- [x] Async/Await
+- [x] Novas Aulas Promises & Async/Await
+- [x] Promise #01
+- [x] Promise #02
+- [x] Promise #03
+- [x] Desafio Promise
+- [x] Desafio Promise - Resposta
+- [x] Promise #04
+- [x] Promise #05
+- [x] Async/Await #01
+- [x] Async/Await #02
+- [x] Cenas dos Próximos Capítulos…
+
 #### Seção 11: Conceitos sobre Web
+#### Seção 12: HTML
+#### Seção 13: CSS
 
 ### :computer: Tecnologias
 
