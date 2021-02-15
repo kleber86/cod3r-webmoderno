@@ -203,7 +203,43 @@
 - [x] Cenas dos Próximos Capítulos…
 
 #### Seção 11: Conceitos sobre Web
+
+- [x] Introdução à Web
+- [x] Protocolo HTTP
+- [x] Slides do Capítulo
+- [x] Servidor Web
+- [x] Client Side vs Server Side
+- [x] Conteúdo Estático vs Dinâmico
+- [x] HTML, CSS e JS
+- [x] DNS
+- [x] HTTP Seguro (HTTPS)
+- [x] Web Service
+- [x] Computação em Nuvem
+
 #### Seção 12: HTML
+- [x] Anatomia da TAG
+- [x] Anatomia de uma Página HTML
+- [x] Um Pouco de CSS
+- [x] Estruturando os Exercícios
+- [x] Texto Puro vs Browser
+- [x] Tag para Textos #01
+- [x] Tag para Textos #02
+- [x] Listas
+- [x] Listas Aninhadas
+- [x] Listas Aninhadas (Desafio)
+- [x] Links #01
+- [x] Links #02
+- [x] Tabela
+- [x] Formulário #01
+- [x] Formulário #02
+- [x] Formulário #03
+- [x] Imagens
+- [x] Desafio Slider #01
+- [x] Desafio Slider #02
+- [x] Vídeo
+- [x] Desafio Controlar Vídeo
+- [x] Tags Não Visuais
+
 #### Seção 13: CSS
 
 ### :computer: Tecnologias
