@@ -5,7 +5,21 @@
     <meta charset="UTF-8">
     <title>Especificidade CSS</title>
     <style>
-        /* https://specificity.keegan.st/ */
+        /* https://specificity.keegan.st/ 
+        
+            Força
+            1. Inline
+            2. ID
+            3. Classe, pseudo-classe, atributo
+            4 Elemento, pseudo-elementos
+        */
+        body{ font-size: 40px; }
+        div{ background-color: #00B; color: #FFF;}
+        div[wm-cor]{ background-color: darkorange;}
+        div.estilo{background-color: green;}
+        #unico1, #unico2{ background-color: #000;}
+        div:hover{ background-color: purple;}
+       
     </style>
 </head>
 
