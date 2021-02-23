@@ -127,8 +127,8 @@
 - [x] Herança #06
 - [x] Evitando Modificações
 - [x] JSON vs Objeto
-- [ ] Classe #01
-- [ ] Classe #02
+- [x] Classe #01
+- [x] Classe #02
 
 #### Seção 7: Javascript: Array
 
@@ -241,6 +241,74 @@
 - [x] Tags Não Visuais
 
 #### Seção 13: CSS
+- [x] Baixando o Arquivo Zip
+- [x] CSS: Introdução
+- [x] Anatomia CSS
+- [x] CSS Interno, Externo e Inline
+- [x] Criando a Classe .tag
+- [x] Seletores CSS #01
+- [x] Seletores CSS #02
+- [x] Especificidade CSS #01
+- [x] Especificidade CSS #02
+- [x] Herança
+- [x] Box Model #01
+- [x] Box Model #02
+- [x] Margin Collapse
+- [x] Propriedade Display
+- [x] Inline-block: Comportamento Estranho
+- [x] Altura & Largura
+- [x] Box Sizing
+- [x] Propriedade Overflow
+- [x] Propriedade Float
+- [x] Cores
+- [x] Unidades #01
+- [x] Unidades #02
+- [x] Unidades #03
+- [x] Texto
+- [x] Propriedade Position
+- [x] Media Query
+- [x] Desafio Menu #01
+- [x] Desafio Menu #02
+- [x] Desafio Card #01
+- [x] Desafio Card #02
+- [x] Flex Box vs CSS Grid
+- [x] Flex Box Nomenclatura
+- [x] Flex Box #01
+- [x] Flex Box #02
+- [x] Flex Box #03
+- [x] Desafio Menu (Flex Box)
+- [x] Resumão Flex Box
+- [x] CSS Grid #01
+- [x] Atualização - Propriedades CSS Grid obsoletas
+- [x] CSS Grid #02
+- [x] CSS Grid #03
+- [x] Recursos
 
+- [x] #### Seção 14: Integrando HTML, CSS e JS
+- [x] Baixando o Zip
+- [x] O que é DOM?
+- [x] Selecionando Elementos #01
+- [x] Selecionando Elementos #02
+- [x] Selecionando Elementos #03
+- [x] Selecionando Elementos #04
+- [x] Acessando Atributos #01
+- [x] Acessando Atributos #02
+- [x] Acessando Atributos #03
+- [x] Acessando Classes
+- [x] Modificando HTML #01
+- [x] Modificando HTML #02
+- [x] Trabalhando c/ Eventos #01
+- [x] Trabalhando c/ Eventos #02
+- [x] Trabalhando c/ Eventos #03
+- [x] Trabalhando c/ Eventos #04
+- [x] Desafio Flappy Bird
+- [x] Flappy Bird #01
+- [x] Flappy Bird #02
+- [x] Flappy Bird #03
+- [x] Flappy Bird #04
+- [x] Flappy Bird #05
+- [x] Flappy Bird #06
+
+#### Seção 14: Ajax
 ### :computer: Tecnologias
 
