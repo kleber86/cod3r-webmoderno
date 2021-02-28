@@ -71,6 +71,28 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./src/modulo/moduloA.js":
+/*!*******************************!*\
+  !*** ./src/modulo/moduloA.js ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("const moduloB = __webpack_require__(/*! ./moduloB */ \"./src/modulo/moduloB.js\")\r\nconsole.log(moduloB.saudacao())\n\n//# sourceURL=webpack:///./src/modulo/moduloA.js?");
+
+/***/ }),
+
+/***/ "./src/modulo/moduloB.js":
+/*!*******************************!*\
+  !*** ./src/modulo/moduloB.js ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = {\r\n    saudacao(){ return 'Olá eu sou o Modulo B!!!'}\r\n}\n\n//# sourceURL=webpack:///./src/modulo/moduloB.js?");
+
+/***/ }),
+
 /***/ "./src/pessoa.js":
 /*!***********************!*\
   !*** ./src/pessoa.js ***!
@@ -79,7 +101,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return Pessoa; });\nclass Pessoa{\r\n    cumprimentar(){\r\n        return 'Bom dia'\r\n    }\r\n}\n\n//# sourceURL=webpack:///./src/pessoa.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return Pessoa; });\n/* harmony import */ var _modulo_moduloA__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modulo/moduloA */ \"./src/modulo/moduloA.js\");\n/* harmony import */ var _modulo_moduloA__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_modulo_moduloA__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\nclass Pessoa{\r\n    cumprimentar(){\r\n        return 'Bom dia'\r\n    }\r\n}\n\n//# sourceURL=webpack:///./src/pessoa.js?");
 
 /***/ }),
 
@@ -91,7 +113,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _pessoa__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./pessoa */ \"./src/pessoa.js\");\n\r\n\r\nconst atendente = new _pessoa__WEBPACK_IMPORTED_MODULE_0__[\"default\"]\r\nconsole.log(atendente.cumprimentar())\n\n//# sourceURL=webpack:///./src/principal.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _pessoa__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./pessoa */ \"./src/pessoa.js\");\n/* harmony import */ var _modulo_moduloA__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modulo/moduloA */ \"./src/modulo/moduloA.js\");\n/* harmony import */ var _modulo_moduloA__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_modulo_moduloA__WEBPACK_IMPORTED_MODULE_1__);\n\r\n\r\n\r\nconst atendente = new _pessoa__WEBPACK_IMPORTED_MODULE_0__[\"default\"]\r\nconsole.log(atendente.cumprimentar())\n\n//# sourceURL=webpack:///./src/principal.js?");
 
 /***/ })
 
