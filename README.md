@@ -310,5 +310,58 @@
 - [x] Flappy Bird #06
 
 #### Seção 14: Ajax
+
+- [x] Baixando o Zip
+- [x] O que é Ajax?
+- [x] Implementando server.js
+- [x] XMLHttpRequest #01
+- [x] XMLHttpRequest #02
+- [x] XMLHttpRequest #03
+- [x] Fetch API #01
+- [x] Fetch API #02
+- [x] Axios #01
+- [x] Axios #02
+- [x] Ajax com jQuery
+- [x] Carregando HTML via Ajax
+
+#### Seção 15: Gulp
+
+- [x] Introdução do Módulo
+- [x] Documentação do Gulp
+- [x] Entendendo o Gulp
+- [x] Baixando o Arquivo Inicial
+- [x] Instalando o Gulp e as Dependências
+- [x] Fundamentos de Gulp #01
+- [x] Fundamentos de Gulp #02
+- [x] O Que é Babel?
+- [x] Processando JavaScript com Gulp
+- [x] O Que é TypeScript?
+- [x] Processando TypeScript com Gulp
+- [x] O Que é SASS?
+- [x] Processando SASS com Gulp #01
+- [x] Processando SASS com Gulp #02
+- [x] Projeto SPA: Estrutura do Projeto
+- [x] Projeto SPA: Criando a Estrutura do Build
+- [x] Projeto SPA: Tasks Dependências
+- [x] Projeto SPA: Tasks Aplicação
+- [x] Projeto SPA: Tasks Servidor
+- [x] Conclusão do Módulo
+- [x] Código Final do Capítulo
+
+#### Seção 16: Webpack
+
+- [x] Visão Geral do Webpack
+- [x] Estrutura Básica do Projeto
+- [x] Sistema de Módulos
+- [x] Configurando a Pasta de Saída
+- [x] Carregando Arquivo .CSS
+- [x] Externalizando Arquivo .CSS
+- [x] Atualização - Dependência node-sass
+- [x] Carregando Arquivo .SCSS (SASS)
+- [x] Desenvolvimento & Produção
+- [x] Atualização
+- [x] Carregando Arquivos de Imagens
+- [x] Adicionando WebServer
+
 ### :computer: Tecnologias
 
