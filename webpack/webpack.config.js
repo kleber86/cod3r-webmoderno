@@ -1,7 +1,7 @@
 const modoDev = process.env.NODE_ENV !== 'production'
 const webpack = require('webpack')
+const TerserPlugin = require('terser-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
-const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 
 
@@ -17,9 +17,11 @@ module.exports = {
     },
     optimization:{
         minimizer:[
-            new UglifyJsPlugin({
-               cache: true,
-               parallel: true 
+            new TerserPlugin({
+                parallel: true,
+                terserOptions: {
+                    ecma: 6,
+                },
             }),
             new OptimizeCssAssetsPlugin({})
         ]
@@ -35,8 +37,11 @@ module.exports = {
             use: [
                 MiniCssExtractPlugin.loader,
                 //'style-loader', // Adiciona o CSS a DOM. Conflito com o MiniCssExtractPlugin
-                'css-loader' // Interpretar @import, url()...
+                'css-loader', // Interpretar @import, url()...
             ]
+        },{
+            test: /\.(png|svg|jpg|gif)$/,
+            use: ['file-loader']
         }]
     }
 }
