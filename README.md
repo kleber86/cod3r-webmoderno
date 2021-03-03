@@ -284,7 +284,8 @@
 - [x] CSS Grid #03
 - [x] Recursos
 
-- [x] #### Seção 14: Integrando HTML, CSS e JS
+#### Seção 14: Integrando HTML, CSS e JS
+
 - [x] Baixando o Zip
 - [x] O que é DOM?
 - [x] Selecionando Elementos #01
@@ -362,6 +363,56 @@
 - [x] Atualização
 - [x] Carregando Arquivos de Imagens
 - [x] Adicionando WebServer
+
+#### Seção 17: jQuery
+
+- [x] Baixando o Zip
+- [x] O que é jQuery?
+- [x] Entendendo jQuery
+- [x] Selecionando Elementos #01
+- [x] Selecionando Elementos #02
+- [x] Modificando HTML #01
+- [x] Modificando HTML #02
+- [x] Modificando HTML #03 (Desafio)
+- [x] Modificando HTML #03 (Resposta)
+- [x] Manipulando Atributos
+- [x] Manipulando CSS
+- [x] Eventos #01
+- [x] Eventos #02
+- [x] Eventos #03
+- [x] Animação #01
+- [x] Animação #02
+- [x] Plugin #01
+- [x] Plugin #02
+
+#### Seção 18: Bootstrap
+
+- [x] Baixando o Zip
+- [x] Links úteis
+- [x] Opções de Instalação
+- [x] Projeto galeria
+- [x] Adicionando Navegação
+- [x] Tipografia
+- [x] Espaços (Margin & Padding)
+- [x] Título & Breadcrumb
+- [x] Cores
+- [x] Flexbox
+- [x] Imagens
+- [x] Float
+- [x] Sistema de Grid #01
+- [x] Sistema de Grid #02
+- [x] Sistema de Grid #03
+- [x] Sistema de Grid #04
+- [x] Sistema de Grid #05
+- [x] Sistema de Grid #06
+- [x] Botões
+- [x] Barra de Progresso
+- [x] Alertas
+- [x] Paginação
+- [x] Tooltip
+- [x] Slider
+- [x] Accordion
+- [x] Formulário
 
 ### :computer: Tecnologias
 
