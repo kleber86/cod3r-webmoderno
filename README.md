@@ -414,5 +414,76 @@
 - [x] Accordion
 - [x] Formulário
 
+#### Seção 19: Projeto Galeria(Bootsrap/jQuery/Webpack)
+
+- [x] Visão Geral do Projeto
+- [x] Referenciando os Estilos (SCSS)
+- [x] Implementando o Header
+- [x] Carregando HTML via Ajax (Includes)
+- [x] Implementando a Galeria de Fotos
+- [x] Filtrar Fotos por Cidade (jQuery Plugin)
+- [x] Executando o Plugin
+- [x] Implementando o Footer
+
+#### Seção 20: React
+03/21 - No momento a tecnologia não faz parte dos meus estudos.
+#### Seção 21: Projeto Calculadora (React)
+03/21 - No momento a tecnologia não faz parte dos meus estudos.
+#### Seção 22: Projeto Cadastro (React)
+03/21 - No momento a tecnologia não faz parte dos meus estudos.
+#### Seção 23: VueJS
+03/21 - No momento a tecnologia não faz parte dos meus estudos.
+#### Seção 24: Projeto Calculadora (VueJS)
+03/21 - No momento a tecnologia não faz parte dos meus estudos.
+#### Seção 25: Projeto Monty Hall (VueJS)
+03/21 - No momento a tecnologia não faz parte dos meus estudos.
+#### Seção 26: Aplicação Desktop com JavaScript, Electron JS e Vue JS
+03/21 - No momento a tecnologia não faz parte dos meus estudos.
+#### Seção 27: Angular
+
+- [ ] Introdução do Módulo
+- [ ] Código Fonte Final
+- [ ] Backend com JSON Server
+- [ ] Visão Geral do Angular
+- [ ] Conceitos Essenciais
+- [ ] Criando APP com o Angular CLI
+- [ ] Conhecendo os Arquivos do Projeto
+- [ ] HTML do AppComponent
+- [ ] Instalar os Componentes do Material
+- [ ] Componente Cabeçalho
+- [ ] Componente Rodapé
+- [ ] Componente Navegação
+- [ ] Elementos do Angular #01
+- [ ] Elementos do Angular #02
+- [ ] Elementos do Angular #03
+- [ ] Componente Início (Home)
+- [ ] Navegando entre Componentes
+- [ ] Diretivas na Prática #01
+- [ ] Diretivas na Prática #02
+- [ ] Componente Criar Produto
+- [ ] Bindings
+- [ ] Navegar para Tela de Criar Produtos
+- [ ] Produto Modelo
+- [ ] Produto Service
+- [ ] Método Criar Produto
+- [ ] Formulário Criar Produto
+- [ ] Componente Obter Produto
+- [ ] Exibindo Produtos com *ngFor
+- [ ] Gerando Componente Tabela
+- [ ] Entendendo Componente Gerado
+- [ ] Tabela Produtos
+- [ ] Adicionando Coluna Ações
+- [ ] Novos Métodos em Produto Service
+- [ ] Componente Atualizar Produto #01
+- [ ] Componente Atualizar Produto #02
+- [ ] Desafio Método Excluir Produto
+- [ ] Desafio Método Excluir Produto - Resposta
+- [ ] Desafio Componente Excluir Produto
+- [ ] Desafio Componente Excluir Produto - Resposta
+- [ ] Exibindo as Mensagens de Erro
+- [ ] Atualizando os Títulos
+- [ ] Conclusão do Módulo
+
+
 ### :computer: Tecnologias
 
